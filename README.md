@@ -1,4 +1,4 @@
-** RAPIDS cuDF's pandas accelerator mode (cudf.pandas)
+--RAPIDS cuDF's pandas accelerator mode (cudf.pandas)
 cuDF is a Python GPU DataFrame library (built on the Apache Arrow columnar memory format) for loading, joining, aggregating, filtering, and otherwise manipulating tabular data using a DataFrame style API in the style of pandas.
 
 cuDF now provides a pandas accelerator mode (cudf.pandas), allowing you to bring accelerated computing to your pandas workflows without requiring any code change.
